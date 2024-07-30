@@ -30,7 +30,7 @@ This notebook is designed to perform automatic ticket classification using Natur
    
 4. **Model Building**
    - Split dataset into training and testing sets.
-   - Train a classification model (e.g., Random Forest, SVM) with cross-validation.
+   - Train a classification model (e.g., Random Forest) with cross-validation.
    - Fine-tune hyperparameters using `RandomizedSearchCV` and `GridSearchCV`.
    
 5. **Model Evaluation**
